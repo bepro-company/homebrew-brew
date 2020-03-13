@@ -1,9 +1,9 @@
 class GithubFlowSugar < Formula
   desc ""
   homepage ""
-  url "https://github.com/8percent/github-flow-sugar/archive/v0.0.5.tar.gz"
-  version "0.0.5"
-  sha256 "7af9345b151dccc671f015a3d51a0d2326a85488a150ad22ea283449eb28ab6d"
+  url "https://github.com/bepro-company/github-flow-sugar/archive/v0.0.6.tar.gz"
+  version "0.0.6"
+  sha256 "d3300d9fe240763283da67e9d6eb2eaf523c6443afbf7dc5a2f6aa1d52a2520e"
 
   COMMANDS = %w(git-feature git-pr git-release git-mr git-pub)
 

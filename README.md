@@ -1,2 +1,2 @@
 # homebrew-brew
-8percent brewery
+bepro-company brewery
