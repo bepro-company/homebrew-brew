@@ -1,10 +1,10 @@
 class GithubFlowSugar < Formula
   desc ""
   homepage ""
-  url "https://github.com/bepro-company/github-flow-sugar/archive/v0.0.7.tar.gz"
-  version "0.0.7"
+  url "https://github.com/bepro-company/github-flow-sugar/archive/v0.0.8.tar.gz"
+  version "0.0.8"
   # wget -qO- <url> | sha256sum
-  sha256 "218c0e6b94b8c9b32e3ca0ea0aeec2d8bfb28526764e2650cb8e99e10654ea09"
+  sha256 "4c32e3126c50b0ba0dff1380534996d2c515553f3a181c5a89aa651ca1c19513"
 
   COMMANDS = %w(git-feature git-pr git-release git-mr git-pub)
 
